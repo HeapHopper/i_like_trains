@@ -1,3 +1,5 @@
+mod train;
+use train::Train;
 fn main() {
-    println!("Hello, world!");
+    //let my_train: Train = Train::new();
 }
